@@ -1,0 +1,69 @@
+{
+    "name": "TinEye",
+    "description": "TinEye is a reverse image search engine. Search by image: Give it an image and it will tell you where the image appears on the web.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/tineye-logo.png",
+    "tags": [
+        "have api",
+        "images",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/tineye\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TinEye",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/tineye-logo.png",
+            "humanURL": "http:\/\/www.tineye.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tineye-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.tineye.com\/rest\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.tineye.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.tineye.com\/feed\/"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/services.tineye.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "support@tineye.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/TinEye"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/services.tineye.com\/TinEyeAPI#plans-and-pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/tineye"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.tineye.com\/"
+        }
+    ]
+}
